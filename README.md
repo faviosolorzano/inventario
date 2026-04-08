@@ -49,31 +49,28 @@ http://127.0.0.1:8000/
 
 ## Creación del repositorio
 
-![Creación del repositorio](./docs/image.png)
+![Creación del repositorio](./documento/1image.png)
 
 ## Preparación del ambiente
 
-![Preparación del ambiente](./docs/2image.png)
+![Preparación del ambiente](./documento/2.png)
 
 ## Migraciones y base de datos
 
-![Migraciones](./docs/3image.png)
+![Migraciones](./documento/3image.png)
 
-## Levantamiento del servidor
-
-![Servidor](./docs/4image.png)
 
 ## Lista de Productos
 
-![Lista de Productos](./docs/5image.png)
+![Lista de Productos](./documento/4image.png)
 
 ## Formulario de Producto
 
-![Formulario Producto](./docs/6image.png)
+![Formulario Producto](./documento/5image.png)
 
 ## Lista de Proveedores
 
-![Lista de Proveedores](./docs/7image.png)
+![Lista de Proveedores](./documento/6image.png)
 
 ## 🙌 Autor
 
