@@ -1,0 +1,11 @@
+{% extends 'productos/base.html' %}
+{% block content %}
+<div class="alert alert-danger">
+    <h4>¿Eliminar {{ tipo }}: <strong>{{ objeto }}</strong>?</h4>
+    <form method="post">
+        {% csrf_token %}
+        <button type="submit" class="btn btn-danger">Sí, eliminar</button>
+        <a href="javascript:history.back()" class="btn btn-secondary">Cancelar</a>
+    </form>
+</div>
+{% endblock %}
