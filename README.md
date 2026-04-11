@@ -53,7 +53,7 @@ http://127.0.0.1:8000/
 
 ## Preparación del ambiente
 
-![Preparación del ambiente](./documento/2.png)
+![Preparación del ambiente](./documento/2imagen.png)
 
 ## Migraciones y base de datos
 
