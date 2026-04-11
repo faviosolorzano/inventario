@@ -52,8 +52,7 @@ http://127.0.0.1:8000/
 ![Creación del repositorio](./documento/1image.png)
 
 ## Preparación del ambiente
-
-![Preparación del ambiente](./documento/2imagen.png)
+![Preparación del ambiente](./documento/2image.png)
 
 ## Migraciones y base de datos
 
